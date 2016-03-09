@@ -1,5 +1,5 @@
 # dotnet-timespan
-https://travis-ci.org/YoEight/dotnet-timespan
+[![Build Status](https://travis-ci.org/YoEight/dotnet-timespan.svg?branch=master)](https://travis-ci.org/YoEight/dotnet-timespan)
 
 .NET TimeSpan in Haskell
 
