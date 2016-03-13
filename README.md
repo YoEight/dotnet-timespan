@@ -5,7 +5,6 @@
 
 Notes
 =====
-That library was tested on Linux and OSX Yosemite.
 
 Contributions and bug reports are welcome!
 
